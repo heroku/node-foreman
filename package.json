@@ -26,10 +26,10 @@
     "test": "tap test/*.test.*"
   },
   "dependencies": {
-    "commander": "~2.9.0",
-    "http-proxy": "~1.11.1",
+    "commander": "^2.11.0",
+    "http-proxy": "^1.16.2",
     "mustache": "^2.2.1",
-    "shell-quote": "~1.4.2"
+    "shell-quote": "^1.6.1"
   },
   "repository": {
     "type": "git",
@@ -46,7 +46,7 @@
   "devDependencies": {
     "chai": "~1.9.1",
     "jshint": "^2.6.3",
-    "rimraf": "~2.2.8",
+    "rimraf": "^2.6.1",
     "tap": "^0.7.1"
   }
 }
