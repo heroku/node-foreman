@@ -27,9 +27,9 @@
   },
   "dependencies": {
     "commander": "^2.11.0",
-    "http-proxy": "^1.16.2",
+    "http-proxy": "^1.18.1",
     "mustache": "^2.2.1",
-    "shell-quote": "^1.6.1"
+    "shell-quote": "^1.7.3"
   },
   "repository": {
     "type": "git",
